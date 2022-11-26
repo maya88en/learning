@@ -5,6 +5,7 @@ Rails.application.routes.draw do
 
   get 'lesson/plan'
   get 'welcome/homepage'
+  get 'welcome/index'
   
 
   
